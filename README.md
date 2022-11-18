@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lidiaweke&label=Profile%20views&color=0e75b6&style=flat" alt="lidiaweke" /> </p>
 
+- 🔭 I’m currently working on **games for PC and Android**
 - 🌱 I’m currently learning **Python**
 
 <h3 align="left">Connect with me:</h3>
