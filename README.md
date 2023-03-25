@@ -16,7 +16,7 @@
 
 ### 📫 Connect with me :
 <p align="left">
-<a href="https://linkedin.com/in/lidia-cerdan-villa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lidia-cerdan-villa" height="30" width="40" /></a> <a href = "mailto: lidiagl1997@ehotmail.com"><img align="center" src="https://w7.pngwing.com/pngs/873/575/png-transparent-gmail-computer-icons-email-google-gmail-angle-text-rectangle.png" alt="email" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lidia-cerdan-villa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lidia-cerdan-villa" height="30" width="40" /></a> <a href = "mailto: lidiagl1997@ehotmail.com"><img align="center" src="https://w7.pngwing.com/pngs/873/575/png-transparent-gmail-computer-icons-email-google-gmail-angle-text-rectangle.png" alt="email" height="30" width="45" /></a>
 </p>
 
 
