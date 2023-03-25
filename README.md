@@ -2,9 +2,6 @@
     <img src="https://tenor.com/es/view/peter-griffin-nails-nail-computer-keyboard-gif-7886259f" width="200" />
     <h1 align="center">Hi 👋, I'm Lidia</h1>
     <h3 align="center">I am a Unity game developer and 3D artist</h3>
-</div>
-
-<div id="badges" align="center">
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=lidiaweke&label=Profile%20views&color=0e75b6&style=flat" alt="lidiaweke" /> </p>
 </div>
 
