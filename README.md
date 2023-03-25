@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://tenor.com/es/view/peter-griffin-nails-nail-computer-keyboard-gif-7886259f" width="200" />
+    <img src="https://media.tenor.com/M8NOboaCB2MAAAAC/peter-griffin-nails.gif" width="200" />
     <h1 align="center">Hi 👋, I'm Lidia</h1>
     <h3 align="center">I am a Unity game developer and 3D artist</h3>
     <p align="center"> <img src="https://komarev.com/ghpvc/?username=lidiaweke&label=Profile%20views&color=0e75b6&style=flat" alt="lidiaweke" /> </p>
@@ -16,7 +16,7 @@
 
 ### 📫 Connect with me :
 <p align="left">
-<a href="https://linkedin.com/in/lidia-cerdan-villa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lidia-cerdan-villa" height="30" width="40" /></a> <a href = "mailto: lidiagl1997@ehotmail.com"><img align="center" src="https://1000marcas.net/wp-content/uploads/2019/11/logo-Gmail-1.png" alt="email" height="30" width="50" /></a>
+<a href="https://linkedin.com/in/lidia-cerdan-villa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lidia-cerdan-villa" height="30" width="40" /></a> <a href = "mailto: lidiagl1997@ehotmail.com"><img align="center" src="https://w7.pngwing.com/pngs/873/575/png-transparent-gmail-computer-icons-email-google-gmail-angle-text-rectangle.png" alt="email" height="30" width="45" /></a>
 </p>
 
 
