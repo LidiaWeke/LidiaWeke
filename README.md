@@ -12,14 +12,15 @@
 - 🔭 I’m currently working on **games for PC and Android**
  
 - 🌱 I’m currently learning **HTML, CSS and JavaScript**
-- 
+
+<br>/<br>
 
 ### 📫 Connect with me :
 <p align="left">
 <a href="https://linkedin.com/in/lidia-cerdan-villa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lidia-cerdan-villa" height="30" width="40" /></a> <a href = "mailto: lidiagl1997@ehotmail.com"><img align="center" src="https://www.pngwing.com/es/free-png-ykgvn.svg" height="30" width="40" /></a>
 </p>
 
-
+<br>/<br>
 
  ### 🔨 Languages and Tools :
   <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
